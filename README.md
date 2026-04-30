@@ -1,5 +1,3 @@
-# -Human-Activity-Recognition-
-
 # Human Activity Recognition Streamlit App
 
 This project is a Streamlit web app for human activity recognition. It can detect activities from a captured camera image or an uploaded image and show safety/posture alerts for selected activities.
